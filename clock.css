@@ -1,0 +1,15 @@
+body {
+    font-family: system-ui;
+    color: black;
+    text-align: center;
+  }
+  #clock{
+    font-size: 100px;
+    margin-top: 240px;
+  }
+  #time{
+    margin-left: 618px;
+    font-size: 37px;
+    margin-top: 20px;
+    color: gray;
+  }
